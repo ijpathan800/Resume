@@ -1,0 +1,84 @@
+  
+      .items
+      {
+        font-size: 17px;
+        font-family: Bahnschrift;
+
+      }
+      .brand 
+      {
+        font-size: 32px;
+        font-family: Rockwell;
+        text-shadow: 3px 3px 4px black;
+      }
+      .symbol
+      {
+        font-size: 30px;
+        color: lightpink;
+        margin-left: 20px;
+
+      }
+      #img
+      {
+        height: 500px;
+        width: 95%;
+        margin-top: 10px;
+
+      }
+      .symbol2
+      {
+        font-size: 25px;
+        color: purple;
+        margin-left: 10px;
+        
+      }
+      .about
+      {
+        text-align: center;
+        font-size: 50px;
+        text-shadow: 1px 2px 3px black;
+        font-family: Comic Sans MS;
+        color: yellowgreen;
+        font-weight: bold;
+      }
+      .about_img
+      {
+        height: 400px;
+        width: 80%;
+        border-radius: 30px;
+        vertical-align: middle;
+        margin-top: 70px;
+      }
+      .about_h2
+      {
+        margin-top: 70px;
+      }
+      .table2
+      {
+        width: 50%;
+        justify-content: center;
+      }
+      .skill
+      {
+        height: 350px;
+        width: 80%;
+      }
+      .symbol23
+      {
+        font-size: 20px;
+        color: black;
+        margin-left: 10px;     
+      }
+
+@media screen and (min-width: 412px)
+{
+  #contact
+  {
+    margin-top: 400px;
+  }
+}
+@media screen and (min-width: 1080px) {
+  #contact{
+    margin-top: 0;
+  }
+}  
