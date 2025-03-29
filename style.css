@@ -1,4 +1,8 @@
   
+      html, body 
+      {
+        overflow-x: hidden;
+      }
       .items
       {
         font-size: 17px;
